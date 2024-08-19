@@ -1,0 +1,10 @@
+﻿  IOAble.cpp
+  Patient.cpp
+  TestPatient.cpp
+  Ticket.cpp
+  Time.cpp
+  TriagePatient.cpp
+  Utils.cpp
+  main.cpp
+  Generating Code...
+  Pre-Triage-App.vcxproj -> \\Mac\Home\Desktop\Seneca\OOP-Project-main\Pre-Triage-App\ARM64\Debug\Pre-Triage-App.exe
